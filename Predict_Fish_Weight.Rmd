@@ -112,7 +112,7 @@ Piketwo <-lm(Weight~Length1+Length3, data=Pike)
 summary.lm(Piketwo)
 ```
 
-This model summarizes put best two regression models. The residual standard error is 92.56. The r-squared is .09649 and the p- value is 2.572e-11. The smallest p-vlaue has the best result.
+This model summarizes put best two regression models. The residual standard error is 92.56. The r-squared is .09649 and the p- value is 2.572e-11. The smallest p-value has the best result.
 
 ## Roach
 
@@ -153,3 +153,7 @@ summary.lm(Roachbest)
 The residual standard error is 36.83. The r-squared is 0.08281 and the p-value is ata 1.23e-07. This is the second to smallest p-value out od all the charts/ models.
 
 ## Final Summary Statements
+
+overall today in class we had to find for each of the three species of fish listed below, we had to determine the best regression model and also the best 2 element regression model while Using the Best Subset Regression helper file. so what we find out is Roachrock model holds the smallest p-value out of all the model we did. Pikebest was the best model out of the three and Prech was just in between them.
+
+
