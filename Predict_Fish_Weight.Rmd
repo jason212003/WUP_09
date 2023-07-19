@@ -76,6 +76,7 @@ Perchmodel <-lm(Weight~Height+Width, data=Perch)
 summary.lm(Perchmodel)
 ```
 
+The adjusted r-squared is 0.94 and the residual standard error is 85.17, with a p-value 2.2
 
 ## Pike
 
