@@ -95,6 +95,7 @@ library(car)
 subsets(regsubsets.out,statistic="adjr2",legend="bottomright",main="Adjusted R^2")
 ```
 
+L1, L3 are the two best regression model. Best regression model is everything
 
 ### Best Models
 
