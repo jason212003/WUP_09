@@ -99,6 +99,13 @@ L1, L3 are the two best regression model. Best regression model is everything
 
 ### Best Models
 
+```{r}
+Pikebest <-lm(Weight~.,data=Pike)
+summary.lm(Pikebest)
+```
+
+
+
 ### Best Two regressor model
 
 ## Roach
